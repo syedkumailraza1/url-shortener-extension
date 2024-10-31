@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "URL Shortener",
+    "version": "1.0",
+    "description": "Shortens the current tab's URL",
+    "permissions": [
+      "activeTab",
+      "tabs"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "host_permissions": [
+        "https://url-shortner-blond-pi.vercel.app/*"
+      ]
+  }
