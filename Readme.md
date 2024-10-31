@@ -14,7 +14,7 @@ To test this extension:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/url-shortener-extension.git
+    git clone https://github.com/syedkumailraza1/url-shortener-extension.git
     ```
 2. **Open Chrome and go to the Extensions page**:
     - Type `chrome://extensions/` in the address bar or go to *Menu > More tools > Extensions*.
